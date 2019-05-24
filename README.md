@@ -1,0 +1,2 @@
+# boo
+Ghost blog
