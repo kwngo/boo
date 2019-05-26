@@ -5,7 +5,7 @@ body {
   line-height: 1.5;
 }
 
-.home-template, .post-template {
+.home-template, .post-template, .main-template {
   width: 80%;
   margin: 0 auto;
   padding: 1em 0;
