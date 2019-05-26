@@ -1,7 +1,7 @@
 {
-    "name": "your-theme-name",
+    "name": "Boo",
     "description": "A brief explanation of your theme",
-    "version": "0.5.0",
+    "version": "0.0.2",
     "engines": {
         "ghost-api": "v2"
     },
