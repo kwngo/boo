@@ -1,0 +1,15 @@
+<div>
+  {{#foreach posts}}
+    <div class="{{post_class}}">
+      <span>
+        <a href="{{url}}">{{{title}}}</a>
+      </span>
+      <span>
+        {{tags prefix=(t " on ")}}
+        <time class="{{post_class}} post-time"datetime="{{date format='YYYY-MM-DD'}}">
+          {{date format="DD MMMM YYYY"}}
+        </time>
+      </span>
+    </div>
+  {{/foreach}}
+</div>

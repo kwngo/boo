@@ -1,0 +1,37 @@
+body {
+  font-size: 13px;
+  font-family: "helvetica", sans-serif;
+  color: #333;
+  line-height: 1.5;
+}
+
+.home-template, .post-template {
+  width: 80%;
+  margin: 0 auto;
+  padding: 1em 0;
+}
+
+.base-width {
+  width: 500px;
+}
+
+.post {
+  padding: 0.5em 0;
+}
+
+.post-time {
+  color: #555;
+  font-size: 0.8em;
+  font-weight: 600;
+}
+
+a {
+  color: #291918;
+  text-decoration: none;
+  border-bottom: 2px solid #291918;
+}
+
+.nav {
+  list-style: none;
+  padding: 0;
+}
